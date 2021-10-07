@@ -1,5 +1,4 @@
 # Instalación JDK 8 en Ubuntu
-Repositorio dedicado a la instalación de JDK versión 8 en Ubuntu a través de la terminal.
 
 Para instalarlo debemos ir a la terminal de nuestro sistema operativo **(CTRL+ALT+T)**  y escribir lo siguiente para poder activar la descarga de los paquetes de las fuentes configuradas:  
 ```
