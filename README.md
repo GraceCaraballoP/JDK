@@ -1,6 +1,6 @@
 # Instalación de JDK
 <div align="center">
-  <img src="logo.jpg">
+  <img src="logo.jpg" width="400px">
 </div>
 
 # Introducción
