@@ -20,7 +20,7 @@ La instalación tardará un par de minutos.
   
 Una vez hecho esto la instalación debe de haber finalizado correctamente, para comprobarlo ejecutaremos el comando:  
 ```
-java --version
+java -version
 ```
 
 Donde como veremos en la siguiente imagen nos dice que la versión que tenemos es la 11.0.11 que no es la que queríamos instalar pero la teníamos previamente instalada.  
@@ -37,7 +37,7 @@ Como vemos en la imagen aparecen varias versiones, pero la que nos interesa es l
  
 Una vez hecho esto ya deberíamos de tener por defecto esta versión, para comprobarlo ejecutaremos el comando:  
 ```
-java --version
+java -version
 ```
 
 Donde como veremos en la siguiente imagen nos dice que se ha realizado correctamente y la versión que tenemos es la 1.8.0. 
