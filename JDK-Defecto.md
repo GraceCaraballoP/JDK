@@ -20,7 +20,7 @@ La instalación tardará un par de minutos.
   
 Una vez hecho esto la instalación debe de haber finalizado correctamente, para comprobarlo ejecutaremos el comando:  
 ```
-java --version
+java -version
 ```
 
 Donde como veremos en la siguiente imagen nos dice que se ha realizado correctamente y la versión que tenemos es la 11.0.11.
